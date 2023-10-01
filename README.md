@@ -2,7 +2,7 @@
 
 This is a collection of the CDC's daily COVID vaccine tracking data.
 
-This data was collected from the CDC's Covid vaccine data endpoint, saved daily since 01-04-2021.
+This data was collected from the CDC's Covid vaccine data endpoint, saved daily since 01-04-2021. The CDC stopped updating this dataset on May 10, 2023
 
 https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=vaccination_data
 
